@@ -1,3 +1,5 @@
+
+
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices 
@@ -21,6 +23,20 @@ This project uses **Python 2.7** and the following libraries.
 ### Data
 
 The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `Predicting-Boston-Housing-Prices/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook boston_housing.ipynb
+```  
+or
+```bash
+jupyter notebook boston_housing.ipynb
+```
+
+This will open the Jupyter Notebook software and project file in your browser.
 
 **Features**
 1.  `RM`: Average number of rooms per dwelling.
